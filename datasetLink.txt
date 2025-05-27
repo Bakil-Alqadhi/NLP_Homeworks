@@ -1,1 +1,5 @@
-https://www.kaggle.com/datasets/yutkin/corpus-of-russian-news-articles-from-lenta
+task 1 and 2 - https://www.kaggle.com/datasets/yutkin/corpus-of-russian-news-articles-from-lenta
+
+
+
+task 3 - https://www.kaggle.com/datasets/blackmoon/russian-language-toxic-comments
